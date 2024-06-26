@@ -1,0 +1,53 @@
+table, th, td{
+    border: 1px, solid green;
+    border-collapse:collapse;
+    padding: 25px
+}
+#lunch {
+    vertical-align: auto;
+    color: brown;
+}
+h2{
+    color: blue;
+}
+.table{
+    color: blueviolet;
+}
+.list{
+    list-style: upper-alpha;
+}
+img{
+    width: 300px; height: 300px;
+}
+section{
+    width: 100%;
+    
+}
+.main{
+text-align: center;
+    border: solid blue;
+}
+.all{
+    display: flex;
+    padding: 25px;
+    border: solid red;
+}
+#first{
+    border: solid green;
+ }
+.second{
+    border: solid black;
+ }
+ .form{
+    padding: 10px;
+    border: solid pink;
+ }
+ div{
+    border: 1px solid grey;
+    box-shadow: 12px inset black;
+    border-radius: 25px;
+    text-align: 
+    center;
+    margin: 10px;
+    padding: 10px;
+ }
